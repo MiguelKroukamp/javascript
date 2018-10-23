@@ -1,0 +1,30 @@
+body {
+  background-image: url(https://i1.wp.com/wallur.com/wp-content/uploads/2016/12/pixel-art-stages-background-11.png?fit=1920%2C1080);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: -50px; }
+
+img {
+  display: none; }
+
+div {
+  text-align: center;
+  background-color: yellow;
+  padding: 30px; }
+
+#btn {
+  border: 3px black solid;
+  border-radius: 10px;
+  background: grey;
+  color: white;
+  width: 10;
+  display: block;
+  margin: auto;
+  margin-top: 10px; }
+
+#btn:hover {
+  border: 3px gray solid;
+  background: white;
+  color: red; }
+
+/*# sourceMappingURL=main.css.map */
