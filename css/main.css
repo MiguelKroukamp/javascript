@@ -1,15 +1,17 @@
 body {
-  background-image: url(https://i1.wp.com/wallur.com/wp-content/uploads/2016/12/pixel-art-stages-background-11.png?fit=1920%2C1080);
+  background-image: url(https://i.imgur.com/mc1SHbe.gif);
   background-size: cover;
   background-repeat: no-repeat;
-  background-position-y: -50px; }
+  color: white; }
 
 img {
-  display: none; }
+  display: none;
+  width: 522px;
+  height: 395px; }
 
 div {
   text-align: center;
-  background-color: yellow;
+  background-color: rgba(0, 0, 0, 0.5);
   padding: 30px; }
 
 #btn {
