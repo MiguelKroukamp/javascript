@@ -39,6 +39,6 @@ Tools:
 
 
 This is the live link to my website:
-https://miguelkroukamp.github.io/online-cv/index.html
+https://miguelkroukamp.github.io/javascript/index.html
 
 
