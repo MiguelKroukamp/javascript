@@ -6,7 +6,7 @@ document.getElementById("btn").onclick=function changText()
     document.getElementById("gif").style.display = "block";
     document.getElementById("btn").style.display = "none";
     document.getElementById("gif").style.margin = "auto";
-    document.getElementById("gif").style.marginTop = "23vh";
+    document.getElementById("gif").style.marginTop = "15vh";
 }
 document.getElementById("btn").style.animation = "translateY(3px)";
 document.getElementById("btn").style.fontSize ="50px";
