@@ -12,6 +12,14 @@ Scripts are provided and executed as a plain text. They don’t need a special p
 
 In this aspect, JavaScript is very different from another language called Java.
 
+# Steps in creating Variables("var")
+
+- step 1: var 
+- step 2: variable (name your variable)
+- step 3: assignment = operator
+- step 4: "string"
+- step 5: alert, console
+
 
 Technologies and Tools Used:
 
